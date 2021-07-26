@@ -1,0 +1,8 @@
+{
+  "warnDays": 30,
+  "sites": [
+    "smtps://mail.kveer.fr:587",
+    "https://portainer.home.kveer.fr:9000",
+    "https://traefik.kveer.fr"
+  ]
+}
